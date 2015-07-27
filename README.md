@@ -14,7 +14,7 @@ Install with [modgit](https://github.com/jreinke/modgit):
 
     $ cd /path/to/magento
     $ modgit init
-    $ modgit clone highlighter https://github.com/jreinke/magento-highlighter.git
+    $ modgit add mage-mod-highlighter-jreinke git@github.com:flintdigital/mage-mod-highlighter-jreinke.git
 
 or download package manually:
 
